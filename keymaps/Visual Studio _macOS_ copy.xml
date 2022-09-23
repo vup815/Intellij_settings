@@ -30,9 +30,6 @@
     <keyboard-shortcut first-keystroke="alt page_down" />
     <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="ctrl left" />
-  </action>
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="w" />
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta w" />
